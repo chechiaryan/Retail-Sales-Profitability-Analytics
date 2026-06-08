@@ -4364,8 +4364,8 @@
       <simple-id uuid='{C7B4CA14-B777-48A5-AE7A-BFCF0491B53C}' />
     </dashboard>
   </dashboards>
-  <windows pres-mode='true' source-height='30'>
-    <window class='dashboard' maximized='true' name='Executive Sales &amp; Profitability Dashboard'>
+  <windows source-height='30'>
+    <window class='dashboard' name='Executive Sales &amp; Profitability Dashboard'>
       <viewpoints>
         <viewpoint name='Category Performance'>
           <zoom type='entire-view' />
@@ -4398,7 +4398,7 @@
       <active id='5' />
       <simple-id uuid='{E1250593-A396-4958-870E-D11B7C23B07A}' />
     </window>
-    <window class='dashboard' name='Sales &amp; Regional Performance Dashboard'>
+    <window class='dashboard' maximized='true' name='Sales &amp; Regional Performance Dashboard'>
       <viewpoints>
         <viewpoint name='Bottom 10 States by Profit'>
           <zoom type='entire-view' />
